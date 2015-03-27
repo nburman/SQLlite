@@ -6,6 +6,7 @@ import java.util.Random;
 public final class RandomInteger1 {
   
   public static final void main(String... aArgs){
+	  
     log("Generating 10 random integers in range 0..99.");
     
     //note a single Random object is reused here
